@@ -68,35 +68,35 @@ a:hover {
   clear: both;
 }
 .inner {
-  width: 1200px;
+  width: 640px;
   margin: 0 auto;
 }
-@media screen and (max-width: 1260px) {
+@media screen and (max-width: 640px) {
   .inner {
     width: 100%;
   }
 }
 #main-col {
-  width: 900px;
+  width: 640px;
 }
-@media screen and (max-width: 1260px) {
+@media screen and (max-width: 640px) {
   #main-col {
     width: 100%;
     margin-right: -300px;
   }
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 640px) {
   #main-col {
     margin-right: 0;
     float: none;
   }
 }
-@media screen and (max-width: 1260px) {
+@media screen and (max-width: 640px) {
   #wrapper {
     margin-right: 300px;
   }
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 640px) {
   #wrapper {
     margin-right: 0;
   }
